@@ -1,0 +1,21 @@
+{
+  "displayName": "Archive",
+  "name": "com.greatclock.archive",
+  "version": "1.0.0",
+  "unity": "2018.4",
+  "description": "Realtime nosql archive for Unity games.",
+  "type": "library",
+  "keywords": [
+    "archive",
+    "realtime",
+    "storage"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thegreatclock/archive.git"
+  },
+  "author": {
+    "name": "greatclock",
+    "email": "thegreatclock@hotmail.com"
+  }
+}
